@@ -1,0 +1,1 @@
+This application uses OpenCV (http://opencv.org/) and Python to identify playing cards from pictures. 
